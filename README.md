@@ -4,7 +4,7 @@
 
 NewPool 是 Augment VS Code 扩展的自定义管理工具，专门用于管理扩展的认证信息和设备配置。它提供了一个用户友好的界面来管理 `accessToken`、`tenantURL` 和设备标识符。
 
-两个修改所用文件可自己研究，或查看https://linux.do/t/topic/819819来解惑
+两个修改所用文件可自己研究，或查看https://linux.do/t/topic/819819 来解惑
 
 ## 功能特性
 
@@ -21,7 +21,7 @@ NewPool 是 Augment VS Code 扩展的自定义管理工具，专门用于管理�
 
 NewPool 功能已集成在 Augment 扩展中，无需单独安装。
 
-https://github.com/xiaoye6688/newpool/releases/tag/666-516
+https://github.com/xiaoye6688/newpool/releases/tag/newpool-524.1
 
 ## 使用方法
 
@@ -51,9 +51,9 @@ https://github.com/xiaoye6688/newpool/releases/tag/666-516
 
 更新认证信息，提供两种模式：
 
-**模式一：仅更新 accessToken**
+**模式一：使用兑换码**
 - 快速更新 accessToken
-- 保留现有的 tenantURL 和权限范围
+- 使用兑换码一键更新
 - 显示当前 token 的部分信息作为参考
 
 **模式二：更新会话数据**
@@ -81,6 +81,16 @@ https://github.com/xiaoye6688/newpool/releases/tag/666-516
 3. 选择是否立即重载窗口
 
 
-如果你觉得这个东西对你有用，可以请我吃一根五毛钱的阿尔卑斯
+## 赞赏支持
+
+如果你觉得这个项目对你有用，可以请我吃一根五毛钱的阿尔卑斯 😊
+
+### 爱发电支持
 https://afdian.com/a/xiaoye6688/plan
+
+### 微信赞赏码
+<div align="center">
+  <img src="weixinzanshang.jpg" alt="微信赞赏码" width="300">
+  <p><em>扫码支持开发者</em></p>
+</div>
 
