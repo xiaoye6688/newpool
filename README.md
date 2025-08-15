@@ -21,7 +21,7 @@ NewPool 是 Augment VS Code 扩展的自定义管理工具，专门用于管理�
 
 NewPool 功能已集成在 Augment 扩展中，无需单独安装。
 
-https://github.com/xiaoye6688/newpool/releases/tag/newpool-524.1
+[https://github.com/xiaoye6688/newpool/releases/tag/augment-pool-531](https://github.com/xiaoye6688/newpool/releases/tag/augment-pool-531)
 
 ## 使用方法
 
